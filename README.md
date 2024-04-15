@@ -1,7 +1,8 @@
 # asmr-copoly
 The repository contains the code needed to replicate the results of the (under review) article:
 
-Analysis of Copolymerization with Simultaneous Reversibility and Transesterification using Stochastic Model Regression. Kuehster, L.; Dai, J.; Thompson, A.; Jhon, Y. K.; Wang, Y.; Qin, B.; Smith, W. C.; Xu, X.; Zhang, F.; Lynd, N. A. Macromolecules 2024.
+Analysis of Copolymerization with Simultaneous Reversibility and Transesterification using Stochastic Model Regression. Kuehster, L.; Dai, J.; Thompson, A.; Jhon, Y. K.; Wang, Y.; Qin, B.; Smith, W. C.; Xu, X.; Zhang, F.; Lynd, N. A. Macromolecules 2024 
+https://doi.org/10.1021/acs.macromol.4c00037 
 
 Files included in this package: fit_stochastic_reversible_di_v1.cpp –
 stochastic model regression for PLGA
